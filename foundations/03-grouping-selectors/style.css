@@ -1,0 +1,14 @@
+.lucy, 
+.tighty{
+    font-size: 28px;
+    font-family: 'Times New Roman', Helvetica, sans-serif;
+} 
+
+.lucy{
+    background-color: indigo;
+    color: lightgoldenrodyellow;
+}
+
+.tighty{
+    background-color: powderblue;
+}
