@@ -1,0 +1,19 @@
+.bup{
+    background-color: #ff4e4ea2;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+
+}
+
+#bloop{
+    color: rgba(0,100, 200, .75);
+    font-size: 36px;
+}
+
+.ster{
+    font-size: 24px;
+}
+
+.blurt{
+    background-color: hsl(140, 70%, 70%);
+    font-weight: 800;
+}
